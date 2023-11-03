@@ -36,6 +36,12 @@ Además de la base de datos en la nube, hay dos backups en el repositorio:
 - [Backup en Postgre](escuela-backup.sql)
 - [Backup en SQLite](escuela.db)
 
+### Queries
+En la carpeta de queries hay tres ejemplos de query para realizar en la base de datos:
+- aptos_por_promocion: Muestra el número total de evaluaciones con calificación 'apto' en cada promoción.
+- mejores_alumnos: Genera una lista con los mejores alumnos ordenados de más a menos cantidad de calificaciones 'apto'.
+- apto_BBDD: Muestra los alumnos que han aprobado el proyecto de bases de datos.
+
 ### Autores
 Este trabajo ha sido realizado por:
 - Manuel Reina Fernández
